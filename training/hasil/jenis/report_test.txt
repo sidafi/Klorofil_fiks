@@ -1,0 +1,15 @@
+               precision    recall  f1-score   support
+
+       jagung     0.8649    0.8000    0.8312       120
+   jambu_biji     0.8350    0.7611    0.7963       113
+      kentang     0.8400    0.8400    0.8400       300
+      lainnya     0.5558    0.7300    0.6311       300
+       mangga     0.8958    0.7611    0.8230       113
+     monstera     0.8030    0.8833    0.8413       300
+         padi     0.9118    0.7949    0.8493        78
+paprika_cabai     0.8983    0.8833    0.8908       300
+        tomat     0.8899    0.6733    0.7666       300
+
+     accuracy                         0.7968      1924
+    macro avg     0.8327    0.7919    0.8077      1924
+ weighted avg     0.8142    0.7968    0.8004      1924

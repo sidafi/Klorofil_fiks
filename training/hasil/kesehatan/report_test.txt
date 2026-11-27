@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       sakit     0.9721    0.8932    0.9310      4137
+       sehat     0.7682    0.9325    0.8424      1571
+
+    accuracy                         0.9040      5708
+   macro avg     0.8702    0.9128    0.8867      5708
+weighted avg     0.9160    0.9040    0.9066      5708
